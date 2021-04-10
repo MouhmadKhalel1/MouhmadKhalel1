@@ -1,7 +1,5 @@
 
 - 👋 Hi, I’m @MouhmadKhalel1
-- 👀 I’m interested in AndroidAppDevelopment
-- 🌱 I’m currently learning Flutter,
-
-
-
+- 🧑 I'm 16 years old 
+- 👀 I’m interested in APP and web Development   
+- 🌱 I’m currently learning Flutter 
